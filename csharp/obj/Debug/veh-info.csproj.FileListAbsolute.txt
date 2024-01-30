@@ -1,0 +1,4 @@
+C:\dev\fivem\portopoderoso\server\resources\[test]\veh-info\csharp\obj\Debug\veh-info.csproj.AssemblyReference.cache
+C:\dev\fivem\portopoderoso\server\resources\[test]\veh-info\csharp\obj\Debug\veh-info.csproj.CoreCompileInputs.cache
+C:\dev\fivem\portopoderoso\server\resources\[test]\veh-info\csharp\obj\Debug\client.net.dll
+C:\dev\fivem\portopoderoso\server\resources\[test]\veh-info\client.net.dll
